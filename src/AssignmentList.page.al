@@ -1,5 +1,6 @@
 page 50100 "Assignment List"
 {
+    // Rasmus added this comment
     Caption = 'Assignment List';
     PageType = List;
     UsageCategory = Lists;
