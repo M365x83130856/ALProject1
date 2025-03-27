@@ -1,6 +1,6 @@
 page 50101 "Assignment Card"
 {
-    PageType = Card;
+    PageType = Card; //Rasmus card page comment
     ApplicationArea = All;
     UsageCategory = None;
     SourceTable = Assignment;
